@@ -10,7 +10,7 @@
 
 - 🌱 I’m learning **Incident response & detection techniques, Log analysis & SIEM concepts, etc.**
   
-- ⚡ Fun fact **My peers say I explain concepts with lots of examples... seems like i have a knack of teaching.**
+- ⚡ Fun fact: **I love the idea of remote work but I'm genuinely excited about operating inside a high-caliber cyber intelligence team someday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
