@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Gift Anekwe</h1>
+<h1 align="center">Hi there 👋, I'm <b>Gift Anekwe</b></h1>
 <h1 align="center">Securing software, one line of code at a time</h1>
 <p align="center">
   <img alt="Cybersecurity" width="75%" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif">
